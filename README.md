@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Natalie. 
+- 👀 I’m interested in data science and data analytics.
+- 🌱 I’m currently learning excel, sql, powerbi, python, tableau.
+- 💞️ I’m looking to collaborate on beginner projects.
+- 📫 How to reach me: nataliiesantoss@gmail.com
